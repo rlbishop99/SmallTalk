@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">smalltalk16</string>
+    <string name="Settings">Settings</string>
+    <string name="Password_change">Change Password</string>
+    <string name="Update_Email">Update Email</string>
+    <string name="log_off"> Log Out </string>
+    <string name="Delete_Acc"> DELETE ACCOUNT </string>
 </resources>
